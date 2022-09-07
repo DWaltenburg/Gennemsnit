@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\bin\Debug\net6.0\Gennemsnit.exe
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\bin\Debug\net6.0\Gennemsnit.deps.json
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\bin\Debug\net6.0\Gennemsnit.runtimeconfig.json
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\bin\Debug\net6.0\Gennemsnit.dll
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\bin\Debug\net6.0\Gennemsnit.pdb
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\Gennemsnit.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\Gennemsnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\Gennemsnit.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\Gennemsnit.AssemblyInfo.cs
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\Gennemsnit.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\Gennemsnit.dll
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\refint\Gennemsnit.dll
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\Gennemsnit.pdb
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\Gennemsnit.genruntimeconfig.cache
+C:\Users\david\source\repos\Gennemsnit\Gennemsnit\obj\Debug\net6.0\ref\Gennemsnit.dll
